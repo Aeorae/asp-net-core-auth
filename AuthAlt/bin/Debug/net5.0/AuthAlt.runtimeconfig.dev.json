@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/fedorae/.dotnet/store/|arch|/|tfm|",
+      "/home/fedorae/.nuget/packages"
+    ]
+  }
+}
