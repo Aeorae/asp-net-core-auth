@@ -1472,7 +1472,7 @@
     ]
   },
   "packageFolders": {
-    "/home/fedorae/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1480,11 +1480,11 @@
       "projectUniqueName": "/home/fedorae/RiderProjects/AuthAlt/AuthAlt/AuthAlt.csproj",
       "projectName": "AuthAlt",
       "projectPath": "/home/fedorae/RiderProjects/AuthAlt/AuthAlt/AuthAlt.csproj",
-      "packagesPath": "/home/fedorae/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/fedorae/RiderProjects/AuthAlt/AuthAlt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fedorae/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
